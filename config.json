@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfpdate",
+        "uuid": 7611840,
+        "checksum": "iai4z"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
